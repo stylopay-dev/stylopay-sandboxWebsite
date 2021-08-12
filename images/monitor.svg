@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>monitor</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="monitor" fill="#2096C9" fill-rule="nonzero">
+            <g>
+                <path d="M57,0 L3,0 C1.343125,0 0,1.343125 0,3 L0,44 C0,45.656875 1.343125,47 3,47 L20.613,47 L18.28,54 L8,54 C7.44775,54 7,54.44775 7,55 L7,59 C7,59.55225 7.44775,60 8,60 L54,60 C54.55225,60 55,59.55225 55,59 L55,55 C55,54.44775 54.55225,54 54,54 L41.72,54 L39.387,47 L57,47 C58.656875,47 60,45.656875 60,44 L60,3 C60,1.343125 58.656875,0 57,0 Z M53,56 L53,58 L9,58 L9,56 L53,56 Z M39.612,54 L20.388,54 L22.721,47 L37.279,47 L39.612,54 Z M58,44 C58,44.55225 57.55225,45 57,45 L3,45 C2.44775,45 2,44.55225 2,44 L2,39 L58,39 L58,44 Z M58,37 L2,37 L2,6 L58,6 L58,37 Z M58,4 L2,4 L2,3 C2,2.44775 2.44775,2 3,2 L57,2 C57.55225,2 58,2.44775 58,3 L58,4 Z" id="Shape"></path>
+                <path d="M20,22 L16,22 C15.44775,22 15,22.44775 15,23 L15,34 C15,34.55225 15.44775,35 16,35 L20,35 C20.55225,35 21,34.55225 21,34 L21,23 C21,22.44775 20.55225,22 20,22 Z M19,33 L17,33 L17,24 L19,24 L19,33 Z" id="Shape"></path>
+                <path d="M28,17 L24,17 C23.44775,17 23,17.44775 23,18 L23,34 C23,34.55225 23.44775,35 24,35 L28,35 C28.55225,35 29,34.55225 29,34 L29,18 C29,17.44775 28.55225,17 28,17 Z M27,33 L25,33 L25,19 L27,19 L27,33 Z" id="Shape"></path>
+                <path d="M36,13 L32,13 C31.44775,13 31,13.44775 31,14 L31,34 C31,34.55225 31.44775,35 32,35 L36,35 C36.55225,35 37,34.55225 37,34 L37,14 C37,13.44775 36.55225,13 36,13 Z M35,33 L33,33 L33,15 L35,15 L35,33 Z" id="Shape"></path>
+                <path d="M44,8 L40,8 C39.44775,8 39,8.44775 39,9 L39,34 C39,34.55225 39.44775,35 40,35 L44,35 C44.55225,35 45,34.55225 45,34 L45,9 C45,8.44775 44.55225,8 44,8 Z M43,33 L41,33 L41,10 L43,10 L43,33 Z" id="Shape"></path>
+                <rect id="Rectangle-path" x="4" y="8" width="10" height="2"></rect>
+                <rect id="Rectangle-path" x="4" y="12" width="10" height="2"></rect>
+                <rect id="Rectangle-path" x="4" y="16" width="5" height="2"></rect>
+                <rect id="Rectangle-path" x="50" y="25" width="6" height="2"></rect>
+                <rect id="Rectangle-path" x="50" y="29" width="6" height="2"></rect>
+                <rect id="Rectangle-path" x="50" y="33" width="6" height="2"></rect>
+                <rect id="Rectangle-path" x="29" y="41" width="2" height="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

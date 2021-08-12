@@ -1,0 +1,978 @@
+/**************************************************** partners.page *******************************************/
+@media only screen and (max-width: 1199px) {
+  /***************** get-started ****************/
+  .get-started_list {
+    padding: 32px 5% 65px;
+  }
+  .get-started_list li {
+    margin-right: 3%;
+  }
+  .footer-links_social {
+    margin-top:0;
+  }
+}
+@media only screen and (min-width: 992px) {
+ #header_nav{
+  display: block !important; 
+ }
+ /*.with-image{
+  margin-left: -16px;
+  } */
+}
+@media only screen and (max-width: 991px) {
+    .footer-links_list_item{width: 50%;}
+    .bottom-3-sections .txt16{min-height: 0;}
+    .bottom-3-sections .col-xs-4{width: 100%;}
+    .bottom-3-sections .col-xs-4+.col-xs-4{margin-top: 40px;}
+    header .logo {margin-top:0;}
+    .page-type{float: left;margin-top: 21px;}
+    .platform-services_list_item .col-xs-4{width: 50%;}    
+  header,header.scrolled{
+    padding-bottom: 5px;
+    padding-top: 10px;
+  }
+   #header_nav {
+    background: #393939;  
+    display: none;
+    position: absolute;
+    right: 0;
+    top: 100%;
+    width: 100%;
+    z-index: 20;
+  }
+  header .h-nav li{
+    display: block;
+    float: none;
+    text-align: left;
+  }
+  header .h-nav li:hover {
+    background: rgba(255, 255, 255, 0.2);
+  }
+  header .h-nav li a {
+    display: block;
+    line-height: 35px;
+    margin: 10px 0px 10px 86px;
+  }
+  header #header_nav.h-nav li a.with-image{
+    margin-left: 62px;
+  }
+   #mobile_btn {
+    display: inline-block;
+       margin-top: 8px;
+    position: relative;
+  }
+  .page-type {
+    margin-right: 0;
+  }
+  /***************** education ****************/
+  .education_list_item_img {
+    display: block;
+    margin-right: 0;
+  }
+  /***************** partner-program ****************/
+  .partner-program li {
+    height: 241px;
+    vertical-align: top;
+  }
+  /***************** other-benefits ****************/
+ 
+  /***************** m29 ****************/
+  .m29 .txt18 br {
+    display: none;
+  }
+  /***************** accordion ****************/
+  .accordion {
+    padding: 0 65px;
+  }
+  /***************** partners_list ****************/
+  .partners_list {
+    padding: 0 5%;
+  }
+  /***************** api ****************/
+  .api_title::before {
+    left: 0;
+  }
+  .api .live-demo .api_title {
+    padding-left: 14.4%;
+  }
+  .api .live-demo .api_title::before {
+    left: 0;
+  }
+  .api .live-demo .api_txt {
+    padding-left: 14.4%;
+  }
+  .api .live-demo .api_link {
+    margin-left: 14.4%;
+  }
+  /***************** get-started ****************/
+  .get-started_list li {
+    margin-right: 0;
+    width: 50%;
+    margin-bottom: 20px;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .text-right-link {
+    text-align: left;
+    padding-left: 30px;
+  }
+ 
+}
+@media only screen and (max-width: 767px) {
+         .newsletter_wrap{
+    display: block;
+    margin:30px 0 20px 0;
+    }
+    .col_block-title{text-align: center;}
+    .travel_block_img,.lenders_block_img{display: none;}
+    .hospitality_list_item_txt{min-height: 45px;}
+    .lenders-row {padding: 30px 0 90px;}
+    .travel-row{padding-top: 30px;}
+    .education .txt28 br,.travel .txt36 br,.lenders .txt36 br{display: none;}
+  .inner-container {
+    padding: 0 15px;
+  }
+  .outer-container {
+    padding: 0 15px;
+  }
+ 
+ 
+  .header_row {
+    text-align: right;
+  }
+
+  /***************** m1 ****************/
+  .partners-page .m1 .dtc {
+    padding: 112px 0 0;
+  }
+  .slider-1 {
+    padding: 0;
+  }
+  .partners-page .m1 .txt20 {
+    max-width: 411px;
+  }
+  .partners-page .slick-dots {
+    bottom: 215px;
+  }
+  .partners-page .sl-links {
+    max-width: 300px;
+  }
+  .partners-page .sl-links .btn,
+  .partners-page .sl-links .link-btn {
+    margin-bottom: 20px;
+  }
+  /***************** platform ****************/
+  .platform_list_item {
+    width: 50%;
+    margin-right: 0;
+    margin-bottom: 47px;
+  }
+  /***************** hospitality ****************/
+  .hospitality_list_item {
+    width: 50%;
+       margin-bottom: 50px;
+  }
+  .hospitality_list_item:last-child {
+    margin-right: 0;
+  }
+  .hospitality_list_item-width {
+    width: 100%;
+  }
+  .hospitality_bottom_list_item {
+    width: 50%;
+    margin-bottom: 50px;
+      min-height: 170px;
+  }
+    .hospitality_bottom{padding-bottom: 30px;}
+  /***************** education ****************/
+
+  /***************** travel ****************/
+  .lenders,
+  .col_block {
+    padding: 0;
+  }
+  .travel_block_img img {
+    margin: 0;
+  }
+
+  /***************** lenders ****************/
+  .lenders .col_block {
+    padding: 20px 0 0 0;
+  }
+  /***************** partner-program ****************/
+  .partner-program li {
+    width: 32%;
+    margin: 0;
+  }
+  .partners-page .logo {
+    margin-right: 20px;
+  }
+  .page-type {
+    margin-left: 0;
+  }
+  /***************** platform-services ****************/
+  .platform-services {
+    padding: 50px 0 50px;
+  }
+
+  .platform-services_list_txt {
+    padding: 0;
+  }
+  .platform-services .txt32 {
+    padding-bottom: 30px;
+  }
+  #slider_in_mobile3,#slider_in_mobile4 {
+    display: block;
+  }
+  .other-benefits_hidden_mobile {
+    display: none;
+  }
+  #slider_in_mobile4 .slick-dots button {
+    background: #ccc;
+  }
+  #slider_in_mobile3 .slick-dots,#slider_in_mobile4 .slick-dots {
+    text-align: center;
+  }
+  .platform-services_list_img img {
+    display: inline;
+  }
+  /***************** other-benefits ****************/
+  .other-benefits {
+    padding: 50px 0 0;
+  }
+  .other-benefits .txt28 {
+    display: inline-block;
+    margin-bottom: 20px;
+  }
+  .other-benefits .txt28 br {
+    display: none;
+  }
+  .other-benefits .dots {
+    margin-top: 40px;
+  }
+  .other-benefits_list {
+    padding: 0;
+    margin: 0;
+  }
+  .other-benefits_list li {
+    height: 130px;
+    margin-bottom: 20px;
+  }
+  /***************** m29 ****************/
+
+  /***************** partners ****************/
+  .partners {
+    padding: 47px 0;
+  }
+  .partners_list {
+    text-align: center;
+  }
+  .partners_list li {
+    display: inline-block;
+    float: none;
+    width: 32%;
+  }
+  /***************** explore ****************/
+  .explore {
+    padding: 60px 0;
+  }
+  .explore_btns .btn {
+    margin-bottom: 20px;
+  }
+  /***************** api ****************/
+  .api {
+    padding: 72px 0 0;
+  }
+  .live-demo {
+    margin-top: 30px;
+  }
+  /***************** get-started ****************/
+  .get-started_txt.muted br {
+    display: none;
+  }
+  /***************** order ****************/
+  .order {
+    padding: 60px 0;
+  }
+  .order_form_row {
+    margin-bottom: 0;
+  }
+  .order_form_row input[type="text"],
+  .order_form_row textarea {
+    margin-bottom: 20px;
+  }
+  .hospitality_list_row:last-child .hospitality_list_item {
+    width: 50%;
+  }
+  .footer-links_social {
+    margin-right: 0;
+    float: none;
+    margin-top: 0;
+  }
+  .dots {
+    display: none;
+  }
+    .platform-services_list_item .col-xs-4, .platform-services_list_item .col-xs-6{
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 599px) {
+  .footer-links_social {
+    margin: 0 auto;
+  }
+  .footer-links_list_item {
+    width: 50%;
+    float: none;
+    display: block;
+  }
+  .footer-links_list {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -moz-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+  }
+
+  .m1 .txt52 {
+    line-height: 1.17;
+    padding-bottom: 20px;
+  }
+  .m1 .txt20 {
+    padding-bottom: 20px;
+  }
+  .link-go-to {
+    margin-bottom: 20px;
+  }
+  .m1 {
+      max-height: 545px;
+      min-height: 300px;
+  }
+    @media only screen and (max-width: 599px){
+     .footer_content_item{width:100% !important;padding:0 10px 20px;text-align: center !important;    margin: 0;}
+        .footer_content_item:last-child{margin-left: 0;}
+        .footer_content_bottom .copyright{float: none;text-align: center;}
+  /*header .h-nav li a { 
+    margin: 10px 0px 10px 34px;
+  }
+  header #header_nav.h-nav li a.with-image {
+    margin-left: 10px;
+  }
+  */
+}
+@media only screen and (max-width: 479px) {
+    .hospitality_bottom_list_item {
+        width: 100%;}
+    .page-type{display: none;}
+  .dots {
+    display: none !important;
+  }
+  /***************** m1 ****************/
+  .m1 .txt52 {
+    font-size: 2rem;
+  }
+  .partners-page .m1 .txt20 {
+    max-width: 300px;
+    font-size: 1rem;
+  }
+  /***************** m2 ****************/
+  .m2.platform {
+    padding: 27px 0 60px;
+  }
+  .m2 .txt36 {
+    margin-bottom: 0;
+  }
+  .platform_list {
+    padding: 40px 0 0;
+  }
+  /***************** hospitality ****************/
+  .hospitality .txt36 br {
+    display: none;
+  }
+  .hospitality_list {
+    padding: 43px 0;
+  }
+  .hospitality_bottom_list {
+    padding: 0 11px;
+  }
+  /***************** education ****************/
+  .education {
+    padding: 0 0 30px;
+  }
+  .education_list {
+    padding: 27px 4% 45px;
+  }
+  .education_list_item {
+    width: 100%;
+    padding-left: 0;
+  }
+  .education_list_item_img {
+    background-position: -107px -428px;
+    border: 2px solid #f3f3f1;
+    display: inline-block;
+    height: 48px;
+    width: 48px;
+  }
+  /***************** travel ****************/
+  .travel {
+    padding: 0 0 101px;
+  }
+  .travel-row {
+    padding: 0;
+  }
+  .travel_block_img {
+    display: none;
+  }
+  /***************** lenders ****************/
+  .lenders_block_img {
+    display: none;
+  }
+  /***************** partner-program ****************/
+  .partner-program li {
+    height: 200px;
+  }
+  .partner-program .crcl {
+    height: 90px;
+    width: 90px;
+    line-height: 90px;
+  }
+  /***************** platform-services ****************/
+  .platform-services_list {
+    padding: 0;
+  }
+  .platform-services_list_img {
+    height: 65px;
+    width: 65px;
+    line-height: 65px;
+  }
+  /***************** other-benefits ****************/
+  .other-benefits {
+    padding: 25px 0 70px;
+  }
+  .other-benefits_list_img {
+    height: 65px;
+    width: 65px;
+    line-height: 89px;
+  }
+  .other-benefits_list_img span {
+    position: absolute;
+    top: 13%;
+    left: 17%;
+  }
+  /***************** m29 ****************/
+  .accordion {
+    padding: 0 20px 0 50px;
+  }
+  /***************** explore ****************/
+  .explore_title {
+    font-size: 32px;
+  }
+  /***************** api ****************/
+  .api {
+    padding: 50px 0;
+  }
+  /***************** get-started ****************/
+  .get-started_list {
+    padding: 32px 5%;
+  }
+  .get-started_list li {
+    width: 100%;
+  }
+  .hospitality_list_row:last-child .hospitality_list_item {
+    width: 100%;
+  }
+  .hospitality_list_item {
+    width: 100%;
+  }
+  .footer-links_list_item {
+    width: 100%;
+        margin-left: 0;
+    text-align: center;
+      padding-right: 0;
+  }
+.newsletter_wrap {text-align: center;}
+  .footer-links_social_title {
+    text-align: center;
+  }
+  .footer-links_social {
+    width: 100%;
+  }
+  .social {
+    width: 100%;
+  }
+  .social img {
+    margin: 0 auto;
+  }
+  .footer-links_social .social a {
+    width: 33%;
+    margin: 10px 0 10px 0;
+  }
+  .footer-links .footer-links_social_btn {
+    display: block;
+    margin: 0 auto;
+  }
+  .footer_content_item {
+    float: none;
+    width: 150px;
+    margin: 0 auto 20px;
+  }
+  .footer_content_item:first-child {
+    margin: 20px auto;
+  }
+  .footer_content_item:last-child {
+    margin: 20px auto 0;
+  }
+  .page-footer {
+    padding: 10px 0 0 0;
+  }
+  .footer_content {
+    padding: 0 0 0 10px;
+  }
+  .copyright {
+    width: 100%;
+    text-align: center;
+    float: none;
+  }
+  .footer_content_bottom .verified-by {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    float: none;
+    text-align: center;
+    margin-right: 0;
+    width: 100%;
+  }
+  .footer_content_bottom .verified-by span {
+    width: 50%;
+    margin-right: 0;
+  }
+  .footer_content_bottom .verified-by a {
+    width: 50%;
+    display: block;
+    margin-left: 0;
+  }
+}
+/*************************************************** index.page ************************************************/
+@media only screen and (max-width: 1199px) {
+  /***************** header ****************/
+  header li {
+    padding-right: 20px;
+  }
+  header li:last-child{
+    padding-right: 0;
+  }
+  /***************** m6 ****************/
+  .m6 .item {
+    height: 115px;
+  }
+  /***************** m18, m22 ****************/
+  .m18 a.txt16,
+  .m22 a.txt16 {
+    display: block;
+  }
+  .m18 .btn-blue,
+  .m22 .btn-blue {
+    margin-right: 15%;
+  }
+  .m18 a.txt16:last-child,
+  .m22 a.txt16:last-child {
+    margin-left: 0;
+  }
+  /***************** m20, m24 ****************/
+  .m20 a.txt16,
+  .m24 a.txt16 {
+    display: block;
+  }
+  .m20 a.txt16:last-child,
+  .m24 a.txt16:last-child {
+    margin-left: 0;
+  }
+  /***************** footer ****************/
+  .social li:not(:last-child) {
+    padding-right: 13%;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .h-nav
+  /***************** m2 ****************/
+  .m2 li {
+    height: 209px;
+    vertical-align: top;
+  }
+  /***************** m4 ****************/
+  /***************** m5, m8, m11, m13 ****************/
+  .m5 .txt18 br,
+  .m8 .txt18 br,
+  .m13 .txt18 br,
+  .m11 .txt18 br {
+    display: none;
+  }
+  /***************** m9 ****************/
+  .m9 ul li {
+    padding: 0 2%;
+  }
+  /***************** m11 ****************/
+  .m11 .red-cloud {
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+  }
+  .m11 ul.minus li {
+    padding-left: 52px;
+  }
+  .m11 ul.minus li::before {
+    left: 7px;
+  }
+  /***************** m15 ****************/
+  .m15 {
+    padding: 150px 0;
+  }
+  /***************** m19, m21, m23, m25 ****************/
+  .m19,
+  .m21,
+  .m23,
+  .m25 {
+    padding: 100px 0;
+  }
+  /***************** m26 ****************/
+  .m26 {
+    padding: 140px 0;
+  }
+  /***************** m32 ****************/
+  .m32 .col-sm-4 {
+    padding: 0 5%;
+  }
+  /***************** footer ****************/
+  .social li:not(:last-child) {
+    padding-right: 3%;
+  }
+  .flex3{
+    display: block !important;
+  }
+  .text-right{
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 767px) {
+  /***************** m2 ****************/
+  .m1 .txt52 {
+    font-size: 1.5rem;
+  }
+  .m1 .txt20 {
+    font-size: 1rem;
+  }
+  /***************** m2 ****************/
+  .m2 li {
+    width: 32%;
+    margin-right: 0;
+  }
+  .m2 .img-responsive {
+    display: none;
+  }
+  .m2 .h-nav {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -moz-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+  .m2 .h-nav li {
+    width: 50%;
+  }
+  .education_list_item_img {
+   margin: 20px auto 10px;
+      display: block;
+  }
+  .education_list_item_txt {
+    display: block;
+    text-align: center;
+  }
+  /***************** m4 ****************/
+  .flex3 {
+    display: block;
+  }
+  .flex3 > :nth-child(1) {
+    margin-bottom: 15px;
+  }
+  .flex3 > :nth-child(2),
+  .flex3 > :nth-child(3) {
+    padding-right: 0;
+    width: auto; 
+  }
+  .flex3 > :nth-child(3) {
+    padding-left: 0; 
+  }
+  /***************** m6 ****************/
+  .m6 .item {
+    right: -127px;
+  }
+  /***************** m8 ****************/
+  .sheme {
+    padding: 0;
+  }
+  .sheme .crcl {
+    width: 65px;
+    height: 65px;
+  }
+  .sheme .item.right-arr::after {
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    width: 45px;
+    top: 129px;
+    z-index: 20;
+  }
+  /***************** m13 ****************/
+  .m13 ul.h-nav li {
+    padding-right: 0;
+    width: 49%;
+  }
+  .m13 ul.h-nav li:nth-child(2n+1) {
+    margin-right: 0;
+  }
+  /***************** m15 ****************/
+  .m15 {
+    padding: 95px 0;
+  }
+  /***************** m16 ****************/
+  .m16 .slider-3 {
+    margin-bottom: 20px;
+  }
+  /***************** m17 ****************/
+  .m17 {
+    padding: 95px 0;
+  }
+  .m17 .col-sm-3 span {
+    display: none;
+  }
+  .anchor {
+    display: block;
+    margin-bottom: 30px;
+  }
+  /***************** m18 ****************/
+  .m18 {
+    padding-bottom: 30px;
+  }
+  .m18 .img-responsive {
+    margin-bottom: 0;
+  }
+  .m18 .col-sm-6 {
+    padding-left: 15px;
+  }
+  /***************** m19, m21, m23, m25 ****************/
+  .m19,
+  .m23 {
+    padding: 50px 0;
+  }
+  .m19 .col-sm-4,
+  .m21 .col-sm-4,
+  .m23 .col-sm-4,
+  .m25 .col-sm-4 {
+    margin-bottom: 20px;
+  }
+  /***************** m20, m24 ****************/
+  .m20 .txt18,
+  .m24 .txt18 {
+    padding-bottom: 0;
+  }
+  /***************** m22 ****************/
+  .m22 {
+    padding-bottom: 30px;
+  }
+  .m22 .txt18 {
+    padding-bottom: 0;
+  }
+  .m22 .img-responsive {
+    margin-bottom: 0;
+  }
+  /***************** m26 ****************/
+  .m26 {
+    padding: 100px 0;
+  }
+  /***************** m30 ****************/
+  .m30 ul li {
+    float: left;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  /***************** m31 ****************/
+  .m31 .slick-arrow.slick-next {
+    right: 0;
+  }
+  .m31 .slick-arrow.slick-prev {
+    left: 0;
+  }
+  /***************** m32 ****************/
+  .m32 .col-sm-4 {
+    margin-bottom: 40px;
+  }
+  .m32 .btn {
+    margin-top: 0;
+  }
+  /***************** m33 ****************/
+  .m33 input {
+    width: 325px;
+  }
+  /***************** footer ****************/
+  .social {
+    margin-right: 20px;
+  }
+  .m17 a {
+    margin-bottom: 20px;
+    display: block;
+  }
+  .m5 .image {
+    margin: 0;
+    max-width: 100%;
+    height: auto;
+  }
+  .m1 .dtb,
+  .m1 .dtc {
+    display: block;
+  }
+  .m1 .container {
+    max-width: 100%;
+    padding: 0 40px;
+  }
+  .slick-slide {
+    min-height: 140px;
+  }
+  .m1 .dtc {
+    padding: 110px 0 46px;
+  }
+}
+@media only screen and (max-width: 479px) {
+    .txt36 {
+    font-size: 1.5rem;
+}
+  /***************** m1 ****************/
+  .m1 .dtc {
+    padding: 110px 0 46px;
+  }
+  .m1 .txt52 {
+    max-width: 300px;
+  }
+  .m1 .txt20 {
+    max-width: 300px;
+    font-size: 1rem;
+  }
+  .go-down {
+    bottom: 10px;
+  }
+  /***************** m3 ****************/
+  .m3 .img-responsive {
+    height: 250px;
+  }
+  .slider-3 {
+    padding-left: 0;
+  }
+  .flex3 > :nth-child(2) {
+    margin-bottom: 20px;
+    float: none;
+    text-align: center;
+  }
+  .flex3 > :nth-child(3) {
+    float: none;
+    text-align: center;
+  }
+  /***************** m6 ****************/
+  .m6 .item {
+    height: auto;
+    text-align: center;
+    right: 0;
+  }
+  .m6 .item .circl {
+    position: relative;
+    right: 0;
+    top: 0;
+    margin: 0 auto 20px;
+  }
+  /***************** m8 ****************/
+  .sheme .desc li {
+    padding: 0 10px;
+  }
+  /***************** m9 ****************/
+  .m9 .item {
+    height: 140px;
+  }
+  /***************** m13 ****************/
+  .m13 ul.h-nav {
+    padding-bottom: 0;
+  }
+  .m13 ul.h-nav li {
+    width: 100%;
+  }
+  .m13 .img-responsive {
+    display: none;
+  }
+  /***************** m16 ****************/
+  .m16 .slider-3 {
+    margin-left: 0;
+  }
+  .m16 .img-responsive {
+    display: none;
+  }
+  /***************** m17 ****************/
+  .m17 {
+    padding: 25px 0 95px;
+  }
+  /***************** m18, m20, m22, m24 ****************/
+  .m18 .txt18 {
+    padding-bottom: 0;
+  }
+  .m18 .img-responsive {
+    display: none;
+  }
+  .m18 a.txt16,
+  .m20 a.txt16,
+  .m22 a.txt16,
+  .m24 a.txt16 {
+    margin: 22px 0;
+  }
+  .m20 .img-responsive {
+    display: none;
+  }
+  /***************** m19, m21, m23, m25, m26 ****************/
+  .m19,
+  .m21,
+  .m23,
+  .m25,
+  .m26 {
+    padding: 50px 0;
+  }
+  /***************** m22, m24 ****************/
+  .m22 .img-responsive,
+  .m24 .img-responsive {
+    display: none;
+  }
+  .m22 .col-sm-6 {
+    padding-left: 15px;
+  }
+  /***************** m33 ****************/
+  .m33 input {
+    width: 280px;
+  }
+  .m2 .h-nav li {
+    width: 100%;
+    padding-bottom: 15px;
+  }
+  .tabs_block .m_tab {
+    margin-left: 0;
+  }
+}

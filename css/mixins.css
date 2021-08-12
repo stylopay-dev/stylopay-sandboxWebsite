@@ -1,0 +1,260 @@
+@font-face {
+  font-family: 'proxima_nova';
+  src: url('../fonts/proxima-nova/proximanova-bold-webfont.eot');
+  src: url('../fonts/proxima-nova/proximanova-bold-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/proxima-nova/proximanova-bold-webfont.woff') format('woff'), url('../fonts/proxima-nova/proximanova-bold-webfont.ttf') format('truetype'), url('../fonts/proxima-nova/proximanova-bold-webfont.svg#proxima_nova_rgbold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'proxima_nova';
+  src: url('../fonts/proxima-nova/proximanova-semibold-webfont.eot');
+  src: url('../fonts/proxima-nova/proximanova-semibold-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/proxima-nova/proximanova-semibold-webfont.woff2') format('woff2'), url('../fonts/proxima-nova/proximanova-semibold-webfont.woff') format('woff'), url('../fonts/proxima-nova/proximanova-semibold-webfont.ttf') format('truetype'), url('../fonts/proxima-nova/proximanova-semibold-webfont.svg#proxima_novasemibold') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'proxima_nova';
+  src: url('../fonts/proxima-nova/proximanova-light-webfont.eot');
+  src: url('../fonts/proxima-nova/proximanova-light-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/proxima-nova/proximanova-light-webfont.woff') format('woff'), url('../fonts/proxima-nova/proximanova-light-webfont.ttf') format('truetype'), url('../fonts/proxima-nova/proximanova-light-webfont.svg#proxima_novalight') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'proxima_nova';
+  src: url('../fonts/proxima-nova/proximanova-regular-webfont.eot');
+  src: url('../fonts/proxima-nova/proximanova-regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/proxima-nova/proximanova-regular-webfont.woff') format('woff'), url('../fonts/proxima-nova/proximanova-regular-webfont.ttf') format('truetype'), url('../fonts/proxima-nova/proximanova-regular-webfont.svg#proxima_nova_rgregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'proxima_nova';
+  src: url('../fonts/proxima-nova/proximanova-regularitalic-webfont.eot');
+  src: url('../fonts/proxima-nova/proximanova-regularitalic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/proxima-nova/proximanova-regularitalic-webfont.woff') format('woff'), url('../fonts/proxima-nova/proximanova-regularitalic-webfont.ttf') format('truetype'), url('../fonts/proxima-nova/proximanova-regularitalic-webfont.svg#proxima_novaregular_italic') format('svg');
+  font-weight: normal;
+  font-style: italic;
+}
+.proxima {
+  font-family: 'proxima_nova' !important;
+}
+.txt52 {
+  font-size: 3.25rem;
+}
+.txt36 {
+  font-size: 2.25rem;
+}
+.txt32 {
+  font-size: 2rem;
+}
+.txt28 {
+  font-size: 1.75rem;
+}
+.txt24 {
+  font-size: 1.5rem;
+}
+.txt20 {
+  font-size: 1.25rem;
+}
+.txt18 {
+  font-size: 1.125rem;
+}
+.txt16 {
+  font-size: 1rem;
+}
+.txt15 {
+  font-size: 0.9375rem;
+}
+.bold {
+  font-weight: bold;
+}
+.s-bold {
+  font-weight: 600;
+}
+.light {
+  font-weight: 300;
+}
+.italic {
+  font-style: italic;
+}
+.blue {
+  color: #1a93cb;
+}
+.red {
+  color: #ea1a3c;
+}
+/*functions*/
+*::-webkit-input-placeholder {
+  color: #b4e7ff;
+  opacity: 1;
+}
+*:-moz-placeholder {
+  color: #b4e7ff;
+  opacity: 1;
+}
+*::-moz-placeholder {
+  color: #b4e7ff;
+  opacity: 1;
+}
+*:-ms-input-placeholder {
+  color: #b4e7ff;
+  opacity: 1;
+}
+html {
+  font-size: 16px;
+  position: relative;
+  min-height: 100%;
+}
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  min-width: 320px;
+  background: #fff;
+  font-family: 'proxima_nova' !important;
+  position: static;
+  overflow-x: hidden;
+}
+.hidden {
+  display: none;
+}
+a,
+a:hover,
+a:focus,
+a:link {
+  color: inherit;
+  font-size: inherit;
+  text-decoration: inherit;
+}
+.full {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.full-img {
+  position: absolute;
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.tdu {
+  text-decoration: underline;
+}
+.clear {
+  clear: both;
+  *zoom: 1;
+  height: 0;
+  visibility: hidden;
+  display: block;
+  content: " ";
+}
+.vam {
+  vertical-align: middle;
+}
+.vat {
+  vertical-align: top;
+}
+.vab {
+  vertical-align: bottom;
+}
+.dib {
+  display: inline-block;
+}
+.dtb {
+  display: table;
+  width: 100%;
+}
+.dtr {
+  display: table-row;
+}
+.dtc {
+  display: table-cell;
+}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+}
+*:focus {
+  outline: none !important;
+}
+@media (max-width: 767px) {
+  * {
+    font-size: 14px;
+  }
+}
+/* For modern browsers */
+.clearfix:before,
+.clearfix:after {
+  content: "";
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+/* для IE6-7 */
+.clearfix {
+  zoom: 1;
+}
+.fll {
+  float: left;
+}
+.flr {
+  float: right;
+}
+.fln {
+  float: none;
+}
+.text-left {
+  text-align: left;
+}
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+.ttu {
+  text-transform: uppercase;
+}
+.h-nav {
+  margin: 0;
+  padding: 0;
+  letter-spacing: normal;
+}
+.h-nav li {
+  display: inline-block;
+}
+.bd100 {
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
+}
+.w50p {
+  width: 50%;
+}
+/*------------------------Градиенты---------------------------*/
+/*------------------------Градиенты---------------------------*/
+/*----------------------Трансформация--------------------------*/
+/*----------------------Трансформация--------------------------*/
+/*functions*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 100;
+}
+/*animations*/
+/*------------------------move bg---------------------------*/
+/*animations*/

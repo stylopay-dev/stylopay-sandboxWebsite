@@ -1,0 +1,10 @@
+<svg width="69" height="182" viewBox="0 0 69 182" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M108 75L4 4" stroke="#EEF1FC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M108 110L4 39" stroke="#EEF1FC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M108 145L4 74" stroke="#EEF1FC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M108 180L4 109" stroke="#EEF1FC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle r="4" transform="matrix(-1 0 0 1 4 4)" fill="#EEF1FC"/>
+<circle r="4" transform="matrix(-1 0 0 1 4 39)" fill="#EEF1FC"/>
+<circle r="4" transform="matrix(-1 0 0 1 4 74)" fill="#EEF1FC"/>
+<circle r="4" transform="matrix(-1 0 0 1 4 109)" fill="#EEF1FC"/>
+</svg>

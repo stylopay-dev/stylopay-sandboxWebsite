@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="15px" viewBox="0 0 20 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-179.000000, -924.000000)" fill="#EA1A3C" fill-rule="nonzero">
+            <g id="Benefits" transform="translate(0.000000, 669.000000)">
+                <g id="secure-hpp" transform="translate(160.000000, 172.000000)">
+                    <g id="Group-29" transform="translate(19.000000, 79.000000)">
+                        <g id="Group-5">
+                            <g id="tick-(1)" transform="translate(0.000000, 4.000000)">
+                                <path d="M19.6687135,0.292339181 C19.2789669,-0.0974463938 18.647076,-0.0974463938 18.2572515,0.292339181 L6.29998051,12.2497271 L1.70380117,7.65354776 C1.31405458,7.26376218 0.682163743,7.26380117 0.292339181,7.65354776 C-0.0974463938,8.04329435 -0.0974463938,8.67518519 0.292339181,9.06497076 L5.59424951,14.3668031 C5.98387914,14.7565497 6.61623782,14.7562768 7.0057115,14.3668031 L19.6687135,1.70380117 C20.058499,1.31405458 20.05846,0.682124756 19.6687135,0.292339181 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
